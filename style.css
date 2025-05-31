@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  font-family: zain, sans-serif;
+}
+
+header {
+  display: grid;
+  grid-template-rows: auto;
+  div.top-header {
+    .flag{
+        background-image: linear-gradient(
+            to right,
+            #fff 0%,
+            #f00 10% 90%,
+            #fff 100%
+          );
+        display: flex;
+        justify-content: center;
+        height: 50px;
+    }
+    .longs{
+        background-color: #04411b;
+        height: 60px;
+        display: flex;
+        justify-content: space-between;
+    }
+  }
+
+  nav {
+    background-color: #ff0;
+    display: flex;
+    justify-content: space-between;
+    padding: 2px 20px;
+
+    ul {
+      list-style: none;
+      display: flex;
+      gap: 20px;
+    }
+
+    a {
+      text-decoration: none;
+      color: #000;
+    }
+  }
+}
