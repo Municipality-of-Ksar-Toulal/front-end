@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap");
-@import "animate.css";
 * {
   padding: 0;
   margin: 0;
@@ -36,26 +35,29 @@ header {
         display: flex;
         gap: 10px;
 
-        button{
+        button {
           border: none;
           outline: none;
           background-color: transparent;
           font-size: medium;
           cursor: pointer;
-        }
-
-        :hover,
-        .active {
-          color: #fff;
+          height: 20%;
+          width: 20%;
+          svg{
+            display: inline-block;
+             max-width: 50px;
+            width: 2vw;
+            height: 2vh;
+          } 
         }
       }
     }
   }
 
   nav {
-    background-color: #ff0;
+    background-color: transparent;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 2px 20px;
     font-weight: 600;
@@ -74,5 +76,23 @@ header {
   a {
     text-decoration: none;
     color: #000;
+  }
+}
+
+section.body {
+  background-color: #ff2;
+  height: 100lvh;
+  /* background-image: url(documents/Toulal-1.png);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; */
+  background: url(documents/Toulal-1.png) center / cover fixed;
+  opacity: 5;
+}
+
+
+@media (max-width:500px) {
+  *{
+    font-size: 90%;
   }
 }

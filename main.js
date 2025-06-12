@@ -25,4 +25,12 @@ function setLanguage(lang) {
     });
   }
 
+// const btns=document.querySelectorAll(".btn");
+// btns.forEach(btn=>{
+//     btn.addEventListener("click", function(){
+//         document.querySelector(".btn.active")?.classList.remove("active");
+//         this.classList.add("active");
+//     });
+// });
+
 setLanguage("ar");
