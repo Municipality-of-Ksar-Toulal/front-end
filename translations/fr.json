@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "news": "Actualités",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Bienvenue dans Notre Entreprise",
+    "subtitle": "La communauté urbaine de Toulal est située dans la partie ouest de Meknès.",
+    "cta": "Commencer",
+    "learn_more": "En Savoir Plus"
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "subtitle": "Communauté urbaine officielle de la province de Meknès",
+    "description": "La commune de Ksar Toulal est une communauté urbaine officielle de la province de Meknès, dans la région de Fès-Meknès. Elle a été créée en 1992 par deux décrets officiels. Elle s'étend sur une superficie d'environ 2 723 hectares et compte une population d'environ 13 000 à 14 000 habitants, dont une forte proportion de jeunes actifs. La commune dispose d'un appareil administratif entièrement intégré, comprenant du personnel administratif et technique, avec sept nouveaux employés récemment recrutés. La commune est administrée par un conseil communal composé de 15 conseillers. La commune est chargée de fournir des services de base aux habitants, tels que la gestion du cimetière, les infrastructures, l'assainissement, la sécurité et l'amélioration des équipements publics. Malgré quelques défis, tels que la saturation du cimetière et le besoin de développement des infrastructures, la commune de Ksar Toulal est une zone urbaine dynamique qui cherche à améliorer ses services en modernisant son administration et en renforçant la communication avec la communauté locale.",
+    "experience": "Années d'Expérience",
+    "projects": "Projets Complétés",
+    "clients": "Clients Satisfaits",
+    "awards": "Prix Remportés"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Nous offrons une large gamme de services administratifs.",
+    "web_dev": {
+      "title": "Développement Web",
+      "description": "Nous développons des sites web modernes et réactifs en utilisant les dernières technologies."
+    },
+    "mobile_dev": {
+      "title": "Développement Mobile",
+      "description": "Nous développons des applications mobiles de haute qualité pour les plateformes iOS et Android."
+    },
+    "cloud": {
+      "title": "Cloud Computing",
+      "description": "Nous fournissons des solutions de cloud computing sécurisées et évolutives pour votre entreprise."
+    },
+    "consulting": {
+      "title": "Conseil Technique",
+      "description": "Nous offrons des conseils techniques spécialisés pour aider votre entreprise à croître et évoluer."
+    }
+  },
+  "news": {
+    "title": "Dernières Actualités",
+    "subtitle": "Restez informé de nos derniers développements et annonces",
+    "article1": {
+      "title": "Lancement de Nouveau Produit",
+      "excerpt": "Nous sommes ravis d'annoncer le lancement de notre nouveau produit qui révolutionnera l'industrie tech...",
+      "date": "15 Décembre 2024"
+    },
+    "article2": {
+      "title": "Partenariat Stratégique",
+      "excerpt": "Nous avons annoncé un nouveau partenariat stratégique avec une entreprise leader dans le domaine...",
+      "date": "10 Décembre 2024"
+    },
+    "article3": {
+      "title": "Prix de la Meilleure Startup Tech",
+      "excerpt": "Nous avons remporté le prix de la Meilleure Startup Tech pour 2024...",
+      "date": "5 Décembre 2024"
+    },
+    "read_more": "Lire Plus"
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Nous sommes là pour vous aider. Contactez-nous dès maintenant",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer",
+    "success": "Message envoyé avec succès!",
+    "info": {
+      "bigtitle": "Commune de Ksar Toulal",
+      "address": "Commune de Ksar Toulal, Ksar Toulal, Préfecture de Meknès, Région de Fès-Meknès, Royaume du Maroc",
+      "smalltitle": {
+        "address": "Localisation",
+        "phone": "Tele",
+        "email": "E-mail"
+      }
+    }
+  },
+  "footer": {
+    "description": "La commune de Ksar Toulal est une communauté urbaine officielle de la province de Meknès, dans la région Fès-Meknès. Elle a été créée en 1992 par deux décrets officiels.",
+    "rights": "Tous droits réservés"
+  }
+}

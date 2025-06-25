@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "ⴰⵅⴰⵎ",
+    "about": "ⴼⴻⵍⵍⴰⵖ",
+    "services": "ⵉⵎⴻⵥⵍⴰⵏⵏⴻⵖ",
+    "news": "ⵉⵎⴰⵢⵏⵓⵜⴻⵏ",
+    "contact": "ⵣⵣⵓ ⵖⵓⵔⵏⴻⵖ"
+  },
+  "hero": {
+    "title": "ⴰⵣⵓⵍ ⵙ ⵜⵖⵉⵡⴰⵏⵜ ⵏ ⵍⵇⵚⵔ ⵀⵉⵍⴰⵍ",
+    "subtitle": "ⵜⴰⵎⵏⴰⴹⵜ ⵜⴰⵎⴷⵉⵏⴰⵏⵜ ⵏ Tulal ⵜⴻⵣⴳⴰⴷ ⴷⴻⴳ ⵜⴰⵎⴰ ⵏ ⵓⴳⴰⴼⴰ ⵏ ⵎⴽⵏⴰⵙ.",
+    "cta": "ⴱⴷⵓ ⵜⵓⵔⴰ",
+    "learn_more": "ⵍⵎⴻⴷ ⵓⴳⴰⵔ"
+  },
+  "about": {
+    "title": "ⴼⴻⵍⵍⴰⵖ",
+    "subtitle": "ⵏⴻⴽⵏⵉ ⴷ ⵜⴰⵔⴱⴰⵄⵜ ⵏ ⵢⵉⵅⴻⴷⴷⴰⵎⴻⵏ ⵏ ⵜⵎⵓⵙⵙⵏⵉ.",
+    "description": "ⵜⴰⵖⵉⵡⴰⵏⵜ ⵏ ⴽⵙⴰⵔ ⵜⵓⵍⴰⵍ ⴷ ⵜⴰⵎⵏⴰⴹⵜ ⵜⴰⵖⵔⵎⴰⵏⵜ ⵜⵓⵏⵚⵉⴱⵜ ⴷⴻⴳ ⵜⴻⵎⵏⴰⴹⵜ ⵏ ⵎⴻⴽⵏⴻⵙ ⴷⴻⴳ ⵜⴻⵎⵏⴰⴹⵜ ⵏ ⴼⴻⵙⵎⴻⴽⵏⴻⵙ. ⵜⴻⵜⵜⵡⴰⵙⴱⴻⴷⴷ ⴷⴻⴳ ⵓⵙⴻⴳⴳⴰⵙ ⵏ 1992 ⵙ ⵙⵏⴰⵜ ⵏ ⵜⴰⵏⴰⴹⵉⵏ ⵜⵓⵏⵚⵉⴱⵉⵏ. ⵜⴰⵖⵉⵡⴰⵏⵜⴰ ⵜⴻⵙⵄⴰ ⴰⵣⴰⵍ ⵏ 2.723 ⵏ ⵢⵉⵇⴻⵟⵟⴰⵔⴻⵏ ⵢⴻⵔⵏⵓ ⵜⴻⵙⵄⴰ ⴰⵣⴰⵍ ⵏ 13.000 ⴰⵔⵎⴰ ⴷ 14.000 ⵏ ⵢⵉⵎⴻⵣⴷⴰⵖⴻⵏ, ⵢⴻⵔⵏⴰ ⵍⵍⴰⵏ ⴷⴻⴳⵙ ⵢⵉⵡⴻⵏ ⵏ ⵡⴻⵃⵔⵉⵛ ⴰⵎⴻⵇⵔⴰⵏ ⵙⴻⴳ ⵢⵉⵍⴻⵎⵥⵉⵢⴻⵏ ⴰⵢ ⵢⴻⵜⵜⵎⴰⵀⴰⵍⴻⵏ. ⵜⴰⵖⵉⵡⴰⵏⵜⴰ ⵜⴻⵙⵄⴰ ⴰⵃⵔⵉⵛ ⵏ ⵜⴻⴷⴱⴻⵍⵜ ⵢⴻⵜⵜⵡⴰⵙⴷⵓⴽⴽⵍⴻⵏ ⵙ ⵍⴻⴽⵎⴰⵍⵏⵏⴻⵙ, ⴳⴰⵔⴰⵙⴻⵏ ⵉⵅⴻⴷⴷⴰⵎⴻⵏ ⵏ ⵜⴻⴷⴱⴻⵍⵜ ⴷ ⵜⴻⵙⵏⴰⵜⵡⵉⵍⵜ, ⵢⴻⵔⵏⵓ ⵜⵜⵡⴰⵇⴻⴱⵍⴻⵏⴷ ⵙⴻⴳ ⵎⴻⵍⵎⵉ ⴽⴰⵏ 7 ⵏ ⵢⵉⵅⴻⴷⴷⴰⵎⴻⵏ ⵉⵎⴰⵢⵏⵓⵜⴻⵏ. ⵜⴰⵖⵉⵡⴰⵏⵜⴰ ⵜⴻⵜⵜⵡⴰⴹⴼⴻⵔ ⵙⵖⵓⵔ ⵓⵙⴻⵇⵇⴰⵎⵓ ⵏ ⵜⵖⵉⵡⴰⵏⵜ ⴰⵢⴷⴻⴳ ⵍⵍⴰⵏ 15 ⵏ ⵢⵉⵄⴻⴳⴳⴰⵍⴻⵏ. ⵜⴰⵖⵉⵡⴰⵏⵜⴰ ⴷ ⵏⴻⵜⵜⴰⵜ ⴰⵢ ⴷⵢⴻⵍⵀⴰⵏ ⵙ ⵓⵙⵙⴻⴼⵔⴻⴽ ⵏ ⵢⵉⵡⴻⵥⵍⴰ ⵏ ⵍⵍⵙⴰⵙ ⵉ ⵢⵉⵎⴻⵣⴷⴰⵖⴻⵏ, ⴰⵎ ⵓⵙⵙⴻⴼⵔⴻⴽ ⵏ ⵜⵎⴻⵇⴱⴻⵔⵜ, ⵍⴻⴱⵏⵉ ⵏ ⵜⵎⴻⵚⴽⵉⵡⵜ, ⴰⵙⵙⴻⵇⴷⴻⵛ ⵏ ⵜⵎⴻⵥⴷⵉⵢⵉⵏ, ⵜⴰⵖⴻⵍⵍⵉⵙⵜ, ⴷ ⵓⵙⵙⴻⵍⵀⵓ ⵏ ⵜⵜⴰⵡⵉⵍⴰⵜ ⵉⵏⴰⴳⴷⵓⴷⴻⵏ. ⵖⴰⵙ ⵎⴰ ⵢⴻⵍⵍⴰ ⵍⵍⴰⵏ ⴽⵔⴰ ⵏ ⵡⵓⴳⵓⵔⴻⵏ, ⴰⵎ ⵜⵎⴻⵇⴱⴻⵔⵜ ⴰⵢ ⵢⴻⵞⵞⵓⵔⴻⵏ ⴷ ⵍⵃⴻⵕⵙ ⵏ ⵓⵙⵏⴻⴼⵍⵉ ⵏ ⵜⵎⴻⵚⴽⵉⵡⵜ (ⵉⵏⴼⵔⴰⵙⵜⵔⵓⵛⵜⵓⵔⴻ), ⵜⴰⵖⵉⵡⴰⵏⵜ ⵏ Ksar Toulal ⴷ ⵜⴰⵎⵏⴰⴹⵜ ⵜⴰⵎⴷⵉⵏⴰⵏⵜ ⴰⵢ ⵢⴻⵙⵄⴰⵏ ⵜⴰⵣⵎⴻⵔⵜ (ⴷⵢⵏⴰⵎⵉⵇⵓⴻ) ⵢⴻⵔⵏⴰ ⵜⴻⵜⵜⵏⴰⴷⵉ ⴰⴷ ⵜⴻⵙⵙⴻⵍⵀⵓ ⵉⵖⴰⵍⵍⴻⵏⵏⵏⴻⵙ ⵙ ⵓⵙⵙⴻⵎⵖⴻⵔ ⵏ ⵜⴻⴷⴱⴻⵍⵜⵏⵏⴻⵙ ⴻⴷ ⵓⵙⵙⴻⵊⵀⴻⴷ ⵏ ⵜⴻⵖⵡⴰⵍⵜ ⴻⴷ ⵜⵎⴻⵜⵜⵉ ⵜⴰⴷⵉⴳⴰⵏⵜ.",
+    "experience": "Iseggwasen n uzray",
+    "projects": "Asenfar yejjan",
+    "clients": "Amsaγ yefrahen",
+    "awards": "Arrif yuran"
+  },
+  "services": {
+    "title": "ⵉⵎⴻⵥⵍⴰⵏⵏⴻⵖ",
+    "subtitle": "ⵏⴻⵜⵜⴰⴼⴷ ⴰⵟⴰⵙ ⵏ ⵢⵉⵡⴻⵥⵍⴰ ⵏ ⵜⴻⴷⴱⴻⵍⵜ.",
+    "web_dev": {
+      "title": "Asbedd n usit",
+      "description": "Nettsbedd isitan imaynuten akked wid yettarran s useqdec n ttiknulujit tamaynut."
+    },
+    "mobile_dev": {
+      "title": "Asbedd n usnas",
+      "description": "Nettsbedd isnasen n tilifiun i iOS d Android s tγara ifazen."
+    },
+    "cloud": {
+      "title": "Asiḍen n ugennaw",
+      "description": "Nettmudd tifeelt n ugennaw yettmestenen akked wid yezganen i uγref inek."
+    },
+    "consulting": {
+      "title": "Asewwel amahirf",
+      "description": "Nettmudd asewwel amahirf i tallelt n uγref inek ad yili akked ad yesnerni."
+    }
+  },
+  "news": {
+    "title": "Isallen imaynuten",
+    "subtitle": "Ili akked isallen imaynuten akked iγmisen nneγ",
+    "article1": {
+      "title": "Asuffeγ n ufaris amaynu",
+      "excerpt": "Nessefrah ad nγem asuffeγ n ufaris nneγ amaynu ara yesniflten aγref n ttiknulujit...",
+      "date": "15 Dujember 2024"
+    },
+    "article2": {
+      "title": "Amyawal astratiji",
+      "excerpt": "Nγem amyawal astratiji amaynu akked tkerkurt tamezwarut g uγref...",
+      "date": "10 Dujember 2024"
+    },
+    "article3": {
+      "title": "Arrif n tkerkurt tamahirft ifazen",
+      "excerpt": "Nuγ arrif n tkerkurt tamahirft ifazen i useggwas 2024...",
+      "date": "5 Dujember 2024"
+    },
+    "read_more": "ⵖⴻⵔ ⵓⴳⴰⵔ"
+  },
+  "contact": {
+    "title": "ⵣⵣⵓ ⵖⵓⵔⵏⴻⵖ",
+    "subtitle": "ⵏⴻⵍⵍⴰ ⴷⴰⴳⵉ ⴰⴽⴽⴻⵏ ⴰⴷ ⵏⵄⵉⵡⴻⵏ. ⴰⵔ ⵖⵓⵔⵏⴻⵖ ⵜⵓⵔⴰ",
+    "name": "ⵉⵙⴻⵎ",
+    "email": "ⵉⵎⴰⵢⵍ",
+    "message": "ⴰⵡⴰⵍ",
+    "send": "ⵛⴻⴳⴳⴻⵄ",
+    "success": "ⵉⵣⴻⵏ ⵢⴻⵜⵜⵡⴰⵣⴻⵏ ⵙ ⵔⵔⴱⴻⵃ!",
+    "info": {
+      "bigtitle": "ⵜⴰⵖⵉⵡⴰⵏⵜ ⵏ ⵅⵚⴰⵔ ⵜⵓⵍⴰⵍ",
+      "address": "ⵜⴰⵖⵔⵎⵜ ⵏ ⴽⵙⴰⵔ ⵜⵓⵍⴰⵍ, ⴽⵙⴰⵔ ⵜⵓⵍⴰⵍ, ⵜⴰⵡⵉⵍⴰⵢⵜ ⵏ ⵎⴽⵏⴻⵙ, ⵜⴰⵎⵏⴰⴹⵜ ⵏ ⴼⵣ-ⵎⴽⵏⴻⵙ, ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵓⵎⵔⵔⵓⴽ",
+      "smalltitle": {
+        "address": "ⴰⴷⴻⴳⵏⵏⵉ",
+        "phone": "ⵜⵉⵍⵉⴼⵓ",
+        "email": "ⵉⵎⴰⵢⵍ"
+      }
+    }
+  },
+  "footer": {
+    "description": "ⵜⴰⵖⵉⵡⴰⵏⵜ ⵏ Ksar Toulal ⴷ ⵜⴰⵎⵏⴰⴹⵜ ⵜⵓⵏⵚⵉⴱⵜ ⵏ ⵜⴻⵎⴷⵉⵏⵜ ⴷⴻⴳ ⵜⴻⵎⵏⴰⴹⵜ ⵏ Meknes ⴷⴰⵅⴻⵍ ⵏ ⵜⴻⵎⵏⴰⴹⵜ ⵏ FezMeknes. ⵢⵍⵍⴰⵏ ⵢⵜⵜⵡⴰⵚⴽⴰ, ⴰⵙⴳⴳⴰⵙ ⵏ 1992, ⵖⴼ ⵍⵃⵙⴰⴱ ⵏ ⵙⵏⴰⵜ ⵜⴰⵏⴰⴹⵉⵏ ⵜⵓⵏⵚⵉⴱⵉⵏ.",
+    "rights": "ⵜⴰⵖⵉⵡⴰⵏⵜ ⵏ ⴽⵙⴰⵔ ⵜⵓⵍⴰⵍ © 2025 ⴰⴽⵓⵍ ⵉⵣⵔⴼⴰⵏ."
+  }
+}

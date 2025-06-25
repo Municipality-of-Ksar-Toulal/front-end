@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "news": "News",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Welcome to Our Company",
+    "subtitle": "The urban community of Toulal is located in the western part of Meknes.",
+    "cta": "Get Started",
+    "learn_more": "Learn More"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Official urban community of Meknes province",
+    "description": "The municipality of Ksar Toulal is an official urban community in the Meknes Province of the Fez-Meknes region. It was established in 1992 by two official decrees. The municipality covers an area of ​​approximately 2,723 hectares and has a population of approximately 13,000 to 14,000, with a large proportion of active youth. The municipality has a fully integrated administrative apparatus, including administrative and technical staff, with seven new employees recently hired. The municipality is managed by a communal council of 15 councilors. The municipality is responsible for providing basic services to residents, such as cemetery management, infrastructure, sanitation, security, and the improvement of public facilities. Despite some challenges, such as the cemetery being full and the need for infrastructure development, the municipality of Ksar Toulal is a dynamic urban area that seeks to improve its services by modernizing its administration and strengthening communication with the local community.",
+    "experience": "Years of Experience",
+    "projects": "Completed Projects",
+    "clients": "Happy Clients",
+    "awards": "Awards Won"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We offer a wide range of administrative services.",
+    "web_dev": {
+      "title": "Web Development",
+      "description": "We develop modern and responsive websites using the latest technologies."
+    },
+    "mobile_dev": {
+      "title": "Mobile Development",
+      "description": "We develop high-quality mobile applications for iOS and Android platforms."
+    },
+    "cloud": {
+      "title": "Cloud Computing",
+      "description": "We provide secure and scalable cloud computing solutions for your business."
+    },
+    "consulting": {
+      "title": "Technical Consulting",
+      "description": "We offer specialized technical consulting to help your business grow and evolve."
+    }
+  },
+  "news": {
+    "title": "Latest News",
+    "subtitle": "Stay updated with our latest developments and announcements",
+    "article1": {
+      "title": "New Product Launch",
+      "excerpt": "We're excited to announce the launch of our new product that will revolutionize the tech industry...",
+      "date": "December 15, 2024"
+    },
+    "article2": {
+      "title": "Strategic Partnership",
+      "excerpt": "We've announced a new strategic partnership with a leading company in the field...",
+      "date": "December 10, 2024"
+    },
+    "article3": {
+      "title": "Best Tech Startup Award",
+      "excerpt": "We won the Best Tech Startup Award for 2024...",
+      "date": "December 5, 2024"
+    },
+    "read_more": "Read More"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help you. Get in touch with us now",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "success": "Message sent successfully!",
+    "info": {
+      "bigtitle": "Municipality Ksar Toulal",
+      "address": "Municipality of Ksar Toulal, Ksar Toulal, Meknes Prefecture, Fez-Meknes Region, Kingdom of Morocco",
+      "smalltitle": {
+        "address": "Location",
+        "phone": "Phone",
+        "email": "Email"
+      }
+    }
+  },
+  "footer": {
+    "description": "We are a leading technology company providing innovative solutions to our clients.",
+    "rights": "Municipality Toulal © 2024 All rights reserved"
+  }
+}
