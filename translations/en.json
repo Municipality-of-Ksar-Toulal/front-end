@@ -7,8 +7,8 @@
     "contact": "Contact Us"
   },
   "hero": {
-    "title": "Welcome to Our Company",
-    "subtitle": "The urban community of Toulal is located in the western part of Meknes.",
+    "title": "Welcome to the Municipality Ksar Toulal",
+    "subtitle": "The Urban Community of Toulal is Located in the Western part of Meknes.",
     "cta": "Get Started",
     "learn_more": "Learn More"
   },
@@ -16,50 +16,49 @@
     "title": "About Us",
     "subtitle": "Official urban community of Meknes province",
     "description": "The municipality of Ksar Toulal is an official urban community in the Meknes Province of the Fez-Meknes region. It was established in 1992 by two official decrees. The municipality covers an area of ​​approximately 2,723 hectares and has a population of approximately 13,000 to 14,000, with a large proportion of active youth. The municipality has a fully integrated administrative apparatus, including administrative and technical staff, with seven new employees recently hired. The municipality is managed by a communal council of 15 councilors. The municipality is responsible for providing basic services to residents, such as cemetery management, infrastructure, sanitation, security, and the improvement of public facilities. Despite some challenges, such as the cemetery being full and the need for infrastructure development, the municipality of Ksar Toulal is a dynamic urban area that seeks to improve its services by modernizing its administration and strengthening communication with the local community.",
-    "experience": "Years of Experience",
-    "projects": "Completed Projects",
-    "clients": "Happy Clients",
-    "awards": "Awards Won"
+    "mayor": {
+      "first": {
+        "name": "Mustafa Hamdan",
+        "about": "He assumed the presidency of the urban community after the September 8, 2021 elections as a Justice and Development Party candidate."
+      },
+      "second": {
+        "name": "Mohammed Saif",
+        "about": "He was elected as mayor after the 2015 elections to lead the municipal council as a member of the Independence Party."
+      },
+      "third": {
+        "name": "Hafid Malhi",
+        "about": "He took office after the 2015 elections."
+      }
+    }
   },
   "services": {
     "title": "Our Services",
     "subtitle": "We offer a wide range of administrative services.",
     "web_dev": {
-      "title": "Web Development",
-      "description": "We develop modern and responsive websites using the latest technologies."
-    },
-    "mobile_dev": {
-      "title": "Mobile Development",
-      "description": "We develop high-quality mobile applications for iOS and Android platforms."
-    },
-    "cloud": {
-      "title": "Cloud Computing",
-      "description": "We provide secure and scalable cloud computing solutions for your business."
-    },
-    "consulting": {
-      "title": "Technical Consulting",
-      "description": "We offer specialized technical consulting to help your business grow and evolve."
+      "first": {
+        "title": "Rokhsa",
+        "description": "Thousands of users inside and outside Morocco use the Rakhis platform to quickly and easily obtain the necessary licenses for their economic and urban activities, 100% digitally."
+      },
+      "second": {
+        "title": "Wati9a",
+        "description": "A document is a Moroccan electronic platform that enables citizens to request civil status documents such as an increase in the Internet without the need to transfer to the province, you can submit the request from your phone or your computer, and the document sends to your door via the guaranteed mail, whether you are an income for Morocco or outside."
+      },
+      "third": {
+        "title": "The integrated system for managing expenses",
+        "description": "GID platform (integrated system of expenses) is a Moroccan electronic portal affiliated with the Kingdom's public treasury used to manage and track public and administrative expenditures digital and transparently"
+      },
+      "fourth": {
+        "title": "GIR-CT",
+        "description": "Gir-CT is a Moroccan electronic platform for managing the revenues of dirt groups, aiming to improve the collection of local taxes and fees and facilitate their tracking in a digital and integrated manner."
+      },
+      "fifth": {
+        "title": "Indemaj",
+        "description": "It is an official electronic service from the public treasury of the Kingdom"
+      }
     }
   },
   "news": {
-    "title": "Latest News",
-    "subtitle": "Stay updated with our latest developments and announcements",
-    "article1": {
-      "title": "New Product Launch",
-      "excerpt": "We're excited to announce the launch of our new product that will revolutionize the tech industry...",
-      "date": "December 15, 2024"
-    },
-    "article2": {
-      "title": "Strategic Partnership",
-      "excerpt": "We've announced a new strategic partnership with a leading company in the field...",
-      "date": "December 10, 2024"
-    },
-    "article3": {
-      "title": "Best Tech Startup Award",
-      "excerpt": "We won the Best Tech Startup Award for 2024...",
-      "date": "December 5, 2024"
-    },
-    "read_more": "Read More"
+    "title": "Latest News"
   },
   "contact": {
     "title": "Contact Us",

@@ -7,7 +7,7 @@
     "contact": "Contact"
   },
   "hero": {
-    "title": "Bienvenue dans Notre Entreprise",
+    "title": "Bienvenue dans la Municipalité Ksar Toulal",
     "subtitle": "La communauté urbaine de Toulal est située dans la partie ouest de Meknès.",
     "cta": "Commencer",
     "learn_more": "En Savoir Plus"
@@ -16,50 +16,49 @@
     "title": "À Propos de Nous",
     "subtitle": "Communauté urbaine officielle de la province de Meknès",
     "description": "La commune de Ksar Toulal est une communauté urbaine officielle de la province de Meknès, dans la région de Fès-Meknès. Elle a été créée en 1992 par deux décrets officiels. Elle s'étend sur une superficie d'environ 2 723 hectares et compte une population d'environ 13 000 à 14 000 habitants, dont une forte proportion de jeunes actifs. La commune dispose d'un appareil administratif entièrement intégré, comprenant du personnel administratif et technique, avec sept nouveaux employés récemment recrutés. La commune est administrée par un conseil communal composé de 15 conseillers. La commune est chargée de fournir des services de base aux habitants, tels que la gestion du cimetière, les infrastructures, l'assainissement, la sécurité et l'amélioration des équipements publics. Malgré quelques défis, tels que la saturation du cimetière et le besoin de développement des infrastructures, la commune de Ksar Toulal est une zone urbaine dynamique qui cherche à améliorer ses services en modernisant son administration et en renforçant la communication avec la communauté locale.",
-    "experience": "Années d'Expérience",
-    "projects": "Projets Complétés",
-    "clients": "Clients Satisfaits",
-    "awards": "Prix Remportés"
+    "mayor": {
+      "first": {
+        "name": "Mustafa Hamdan",
+        "about": "Il a assumé la présidence de la communauté urbaine après les élections du 8 septembre 2021 en tant que candidat du Parti de la justice et du développement."
+      },
+      "second": {
+        "name": "Mohammed Saif",
+        "about": "Il a été élu maire après les élections de 2015 pour diriger le conseil municipal en tant que membre du Parti de l'indépendance."
+      },
+      "third": {
+        "name": "Hafid Malhi",
+        "about": "Il a pris ses fonctions après les élections de 2015."
+      }
+    }
   },
   "services": {
     "title": "Nos Services",
     "subtitle": "Nous offrons une large gamme de services administratifs.",
     "web_dev": {
-      "title": "Développement Web",
-      "description": "Nous développons des sites web modernes et réactifs en utilisant les dernières technologies."
-    },
-    "mobile_dev": {
-      "title": "Développement Mobile",
-      "description": "Nous développons des applications mobiles de haute qualité pour les plateformes iOS et Android."
-    },
-    "cloud": {
-      "title": "Cloud Computing",
-      "description": "Nous fournissons des solutions de cloud computing sécurisées et évolutives pour votre entreprise."
-    },
-    "consulting": {
-      "title": "Conseil Technique",
-      "description": "Nous offrons des conseils techniques spécialisés pour aider votre entreprise à croître et évoluer."
+      "first": {
+        "title": "Rokhsa",
+        "description": "Des milliers d'utilisateurs à l'intérieur et à l'extérieur du Maroc utilisent la plateforme Rakhis pour obtenir rapidement et facilement les licences nécessaires à leurs activités économiques et urbaines, 100% numériquement."
+      },
+      "second": {
+        "title": "Wati9a",
+        "description": "Un document est une plate-forme électronique marocaine qui permet aux citoyens de demander des documents de statut civil tels qu'une augmentation d'Internet sans avoir besoin de transférer dans la province, vous pouvez soumettre la demande de votre téléphone ou de votre ordinateur, et le document envoie à votre porte via le courrier garanti, que vous soyez un revenu pour le Maroc ou à l'extérieur."
+      },
+      "third": {
+        "title": "Gestion Intégrée de la Dépenses",
+        "description": "La plate-forme GID (Système de dépenses intégré) est un portail électronique marocain affilié au trésor public du royaume utilisé pour gérer et suivre les dépenses publiques et administratives numériques et transparentes"
+      },
+      "fourth": {
+        "title": "GIR",
+        "description": "GIR-CT est une plate-forme électronique marocaine pour gérer les revenus des groupes de saleté, visant à améliorer la collecte des taxes locales et des frais et faciliter leur suivi de manière numérique et intégrée."
+      },
+      "fifth": {
+        "title": "Indemaj",
+        "description": "Il s'agit d'un service électronique officiel du Trésor public du Royaume"
+      }
     }
   },
   "news": {
-    "title": "Dernières Actualités",
-    "subtitle": "Restez informé de nos derniers développements et annonces",
-    "article1": {
-      "title": "Lancement de Nouveau Produit",
-      "excerpt": "Nous sommes ravis d'annoncer le lancement de notre nouveau produit qui révolutionnera l'industrie tech...",
-      "date": "15 Décembre 2024"
-    },
-    "article2": {
-      "title": "Partenariat Stratégique",
-      "excerpt": "Nous avons annoncé un nouveau partenariat stratégique avec une entreprise leader dans le domaine...",
-      "date": "10 Décembre 2024"
-    },
-    "article3": {
-      "title": "Prix de la Meilleure Startup Tech",
-      "excerpt": "Nous avons remporté le prix de la Meilleure Startup Tech pour 2024...",
-      "date": "5 Décembre 2024"
-    },
-    "read_more": "Lire Plus"
+    "title": "Dernières Actualités"
   },
   "contact": {
     "title": "Contactez-Nous",

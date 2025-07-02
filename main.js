@@ -126,11 +126,11 @@ function updateDocumentDirection() {
     document.documentElement.lang = currentLanguage;
 
     // Update body class for Arabic font
-    // if (isRTL) {
-    //     document.body.classList.add('font-arabic');
-    // } else {
-    //     document.body.classList.remove('font-arabic');
-    // }
+    if (isRTL) {
+        document.body.classList.add('font-arabic');
+    } else {
+        document.body.classList.remove('font-arabic');
+    }
 }
 
 // Event listeners
@@ -357,9 +357,9 @@ if (!('scrollBehavior' in document.documentElement.style)) {
 }
 
 // Error handling
-window.addEventListener('error', (e) => {
-    console.error('Global error:', e.error);
-});
+// window.addEventListener('error', (e) => {
+//     console.error('Global error:', e.error);
+// });
 
 window.addEventListener('unhandledrejection', (e) => {
     console.error('Unhandled promise rejection:', e.reason);
@@ -408,10 +408,29 @@ const map = L.map('map').setView([lat, lon], 16);
 
 // Download a map layer from OpenStreetMap
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '© OpenStreetMap contributors'
+    attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
 // Add a marker to the site
 L.marker([lat, lon]).addTo(map)
-  .bindPopup("Municipaliti Toulal")
-  .openPopup();
+    .bindPopup("Municipaliti Toulal")
+    .openPopup();
+
+
+const player = videojs('myvideo');
+
+document.getElementById('Jazeera').addEventListener('click', function () {
+    player.src({
+        src: 'https://live-hls-web-aje.getaj.net/AJE/index.m3u8',
+        type: 'application/x-mpegURL'
+    });
+    player.play(); 
+});
+
+document.getElementById('medi1').addEventListener('click', function () {
+    player.src({
+        src: 'https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8',
+        type: 'application/x-mpegURL'
+    });
+    player.play(); 
+});
